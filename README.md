@@ -1,4 +1,4 @@
-[github-header-image](https://user-images.githubusercontent.com/75495771/204587533-747aec62-fb64-4ed0-bce9-59e57c8eea62.png)
+(github-header-image.png)
 - 👋 Hi, I’m @DevSaadia!
 - 👀 I’m interested in object-oriented programming and app-development.
 <!---- 🌱 I’m currently learning ...
