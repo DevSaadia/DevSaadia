@@ -1,4 +1,7 @@
-[test alt txt] (/github-header-image.png)
+![github-header-image.png](https://github.com/DevSaadia/DevSaadia/blob/main/github-header-image.png)
+
+
+
 - 👋 Hi, I’m @DevSaadia!
 - 👀 I’m interested in object-oriented programming and app-development.
 <!---- 🌱 I’m currently learning ...
