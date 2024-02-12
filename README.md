@@ -3,7 +3,7 @@
 
 
 - 👋 Hi, I’m @DevSaadia!
-- 👀 I’m interested in object-oriented programming and app-development.
+- 👀 I’m interested in object-oriented programming, full-stack development and machine learning.
 <!---- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
