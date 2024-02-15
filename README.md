@@ -3,7 +3,7 @@
 
 
 - 👋 Hi, I’m @DevSaadia!
-- 👀 I’m interested in object-oriented programming, full-stack development, natural language processing, and machine learning.
+- 👀 I’m interested in full-stack development, natural language processing, and machine learning.
 - 🌱 I’m currently learning web development technologies including Javascript, React, Vue and Node js.
 - 📫 You can email me at saadia.shahid@torontomu.ca or connect with me on [LinkedIn](https://www.linkedin.com/in/saadia-shahid/).
 
