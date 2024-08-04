@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @DevSaadia!
 - 👀 I’m interested in full-stack development, natural language processing, and machine learning.
-- 🌱 I’m currently learning web development technologies including Javascript, React, Vue and Node js.
+- 🌱 I’m currently learning web development frameworks such as NextJS.
 - 📫 You can email me at saadia.shahid@torontomu.ca or connect with me on [LinkedIn](https://www.linkedin.com/in/saadia-shahid/).
 
 
